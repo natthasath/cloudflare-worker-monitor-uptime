@@ -24,7 +24,7 @@ monitors:
     linkable: true # allows the title to be a link, default=true
 
   - id: nidapoll
-    name: nida.ac.th
+    name: nidapoll.nida.ac.th
     description: 'Built for anything connected to the Internet.'
     url: 'https://nidapoll.nida.ac.th/'
     method: GET
