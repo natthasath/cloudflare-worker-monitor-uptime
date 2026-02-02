@@ -23,6 +23,14 @@ monitors:
     expectStatus: 200
     linkable: true # allows the title to be a link, default=true
 
+  - id: nidapoll
+    name: nida.ac.th
+    description: 'Built for anything connected to the Internet.'
+    url: 'https://nidapoll.nida.ac.th/'
+    method: GET
+    expectStatus: 200
+    linkable: true # allows the title to be a link, default=true
+
   - id: www-cloudflare-com
     name: www.cloudflare.com
     description: 'Built for anything connected to the Internet.'
